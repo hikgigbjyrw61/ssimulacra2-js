@@ -5,6 +5,8 @@ export default {
   output: [
     {
       file: "dist/index.umd.js",
+
+      
       name: "ssimulacra2Js",
       format: "umd",
       sourcemap: true,
